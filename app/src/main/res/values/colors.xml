@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="foreground">#1D1D1D</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card_foreground">#1D1D1D</color>
+    <color name="popover">#FFFFFF</color>
+    <color name="popover_foreground">#1D1D1D</color>
+
+    <!-- Primary and secondary colors -->
+    <color name="primary">#0A0A13</color>
+    <color name="primary_foreground">#FAFAFA</color>
+    <color name="secondary">#F0F0F5</color>
+    <color name="secondary_foreground">#0A0A13</color>
+    <color name="primary_pressed">#2f2f31</color>
+    <color name="secondary_pressed">#f4f4f5</color>
+    <color name="secondary_pressed_border">#e4e4e7</color>
+    <!-- Muted and accent colors -->
+    <color name="muted">#F0F0F5</color>
+    <color name="muted_foreground">#747485</color>
+    <color name="accent">#F0F0F5</color>
+    <color name="accent_foreground">#0A0A13</color>
+
+    <!-- Destructive colors -->
+    <color name="destructive">#D92B2B</color>
+    <color name="destructive_foreground">#FAFAFA</color>
+
+    <!-- Border and input colors -->
+    <color name="border">#E6E6E6</color>
+    <color name="input">#E6E6E6</color>
+
+    <!-- Ring color -->
+    <color name="ring">#0A0A13</color>
+    <!-- Link color -->
+    <color name="link">#747485</color>
+
+    <!-- Chart colors -->
+    <color name="chart_1">#F54242</color>
+    <color name="chart_2">#32A87D</color>
+    <color name="chart_3">#3D7187</color>
+    <color name="chart_4">#A8F279</color>
+    <color name="chart_5">#FFB344</color>
+</resources>

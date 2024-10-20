@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="welcome_message">Hola, %s! Bienvenido al Panel de Control</string>
+    <string name="icon_description">Icono</string>
+    <string name="logout_button">Cerrar sesión</string>
+    <string name="dashboard_title">Panel de Inventario</string>
+    <string name="add_item_button">Agregar Artículo</string>
+    <string name="statistics_button">Estadísticas</string>
+    <string name="search_hint">Buscar artículos...</string>
+</resources>
